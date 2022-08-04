@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yaya 👋
 
 <!--
 **yaya-mamoudou/yaya-mamoudou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wxAgg-RiNnVCNIDut_B7FlFMz67hXi_2dQ&usqp=CAU" height="100" /></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/yaya-mamoudou/github-readme-stats)
