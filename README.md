@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **yayamamoudou0@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cGNhbjqlZnydW4ZxtrxbAyw30OZzq3YyVC2OvptkxnY/edit](https://docs.google.com/document/d/1cGNhbjqlZnydW4ZxtrxbAyw30OZzq3YyVC2OvptkxnY/edit)
-
 - ⚡ Fun fact **I love African food**
 
 <h3 align="left">Connect with me:</h3>
